@@ -1,2 +1,34 @@
-# bebop
-An npm package which will be multifunctional , fast and similar to bebop....!
+# Bebop
+
+---
+
+> It's a multifunctional npm package for using various data structures and algorithms in your project.
+
+### Installation
+
+```bash
+npm i bebop
+```
+
+## Features
+
+    * Sorting
+        * Bubble Sort
+        * Selection Sort
+        * Insertion Sort
+        * Merge Sort
+
+    * Maths
+        * GCD
+        * LCM
+        * Square root
+        * Cube root
+        * Exponent
+
+    * Searching Algorithms
+        * Binary Search
+        * Linear Search
+
+    * Graph Algorithms
+        * DFS
+        * BFS
